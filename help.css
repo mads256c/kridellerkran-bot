@@ -1,0 +1,18 @@
+@font-face {
+	font-family: customFont;
+	src: url(Gidole-Regular.otf);
+}
+
+body {
+	font-family: customFont;
+	font-size: 100%;
+	background-color: #DDDDDD;
+}
+
+h1 {
+	color: #444444;
+}
+
+h3 {
+	color: #666666;
+}
